@@ -1,4 +1,4 @@
-ofxOscilloscope
+ofxCustomDashboard
 ===============
 
 Multi Oscilloscope addon for openFrameworks.
